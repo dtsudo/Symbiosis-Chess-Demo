@@ -1,0 +1,9 @@
+icon_512x512.png was downloaded from https://github.com/official-stockfish/stockfish-web/blob/f35dcbecc7bf7217ebb0c173e1816d31bd68d4c8/static/images/logo/icon_512x512.png
+
+The logo was designed by Klein Maetschke.
+
+In https://github.com/official-stockfish/stockfish-web/issues/6, the logo usage was clarified as:
+
+	answer from @daylen
+
+		Hi yes I commissioned the logo (and paid for it!). Usage of the logo to refer to Stockfish the engine is fine. (For example in an engine picker dialog box.) Usage of the logo for your entire app icon, that would be not cool. I would say use your best judgment?
